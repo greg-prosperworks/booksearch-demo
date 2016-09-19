@@ -1,0 +1,4 @@
+Let's update the app to add a new list which contains all of the authors for a given search.
+For each author we also want to show all of the books that are written by that author.
+
+See q2_screenshot.png for reference of an example

@@ -1,0 +1,3 @@
+Lets say there is a slow connection or the server is slow when loading the details of a book.
+How can we improve the user experience of the book details page?
+

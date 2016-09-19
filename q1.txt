@@ -1,0 +1,3 @@
+Let's make the title of a book editable from the book detail activity.
+This change will allow the user to edit the title of a book.
+If the user changes the title, that change should also appear in the book list activity.
